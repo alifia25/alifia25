@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Alifia 👋
 
 I'm one who loves everything about data, data analysis, data scientists, and especially passionate and creative machine learning, with a dedication to bringing innovation through data analysis and model development. With a strong foundation in computer science and some experience in facing real-world challenges, I am committed to bringing smart and sustainable solutions through the use of artificial intelligence. 
 
