@@ -8,6 +8,8 @@ I'm one who loves everything about data, data analysis, data scientists, and esp
 - 📫 How to reach me: elfannyalifia@gmail.com
 - ⚡ Fun fact: have an extroverted MBTI, but more comfortable with myself in the reading room
 
+My Portofolio --> http://bit.ly/PortofolioAlifiaEl
+
 <br />
 
 ---
