@@ -2,7 +2,7 @@
 
 I'm one who loves everything about data, data analysis, data scientists, and especially passionate and creative machine learning, with a dedication to bringing innovation through data analysis and model development. With a strong foundation in computer science and some experience in facing real-world challenges, I am committed to bringing smart and sustainable solutions through the use of artificial intelligence. 
 
-- 🔭 I’m currently studying in college as System Information
+- 🔭 I’m freshgraduate of System Information
 - 🌱 I'm currently studying data analysis, data science, and machine learning
 - 👯 I'd like to collaborate on any project that involves the 3 areas I'm studying currently
 - 📫 How to reach me: elfannyalifia@gmail.com
